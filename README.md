@@ -1,8 +1,7 @@
 ## datasciencecoursera
 John Hopkins Data Science Course
 
-Dataset
-Human Activity Recognition Using Smartphones
+Human Activity Recognition Using Smartphones from Samsung
 ---
 
 **run_analysis_codebook.md** describes the variables, the data, and any transformations or work that was performed to clean up the data
